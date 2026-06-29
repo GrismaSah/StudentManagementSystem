@@ -107,13 +107,27 @@ java -cp out Main
 
 ## Screenshots
 
-> Add screenshots here after running the app.
+## 📸 Screenshots
 
-- `screenshots/login.png`
-- `screenshots/dashboard.png`
-- `screenshots/view-students.png`
-- `screenshots/add-student.png`
-- `screenshots/dark-mode.png`
+### 🔐 Login
+
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### ➕ Add Student
+
+![Add Student](screenshots/add-student.png)
+
+### 👨‍🎓 Student Data
+
+![Student Data](screenshots/student-data.png)
+
+### 🔍 Sort Student
+
+![Sort Student](screenshots/sort-student.png)
 
 ---
 
